@@ -298,3 +298,4 @@ The current preferred ConvLoRA reference is the 3x3-only frozen-BN variant:
 2. Project dependencies are installed with `pip install -r requirements/base.txt`.
 3. Development dependencies can be installed with `pip install -r requirements/dev.txt`.
 4. Project contracts and configuration are documented in [docs/contracts.md](docs/contracts.md), [configs/config.yaml](configs/config.yaml), and [data/README.md](data/README.md).
+5. Execution instructions, CLI, and Helper functions given in [data/COLAB_INSTRUCTIONS.md](data/COLAB_INSTRUCTIONS.md)
